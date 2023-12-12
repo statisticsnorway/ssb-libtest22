@@ -1,0 +1,22 @@
+{
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_jinja2_env_vars": {
+    "lstrip_blocks": true,
+    "trim_blocks": true
+  },
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Kristian L\u00f8n\u00f8",
+  "code_quality_level": "Medium",
+  "copyright_owner": "Statistics Norway",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "krl@ssb.no",
+  "friendly_name": "SSB Libtest22",
+  "github_organization": "statisticsnorway",
+  "license": "MIT",
+  "package_name": "ssb_libtest22",
+  "project_name": "ssb-libtest22",
+  "version": "0.0.0"
+}
