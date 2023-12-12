@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ssb-libtest22"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Libtest22"
 authors = ["Kristian Lønø <krl@ssb.no>"]
 license = "MIT"
